@@ -13,6 +13,23 @@ This swatch consists of a header of tabby before splitting off into several laye
 
 [3] Downs, R. (2005). Using resistive touch screens for human/machine interface. Data Acquisition.
 
+## Final Working Product
+
+### Nothing Happens When Not Pressed
+
+<div>
+  <img src="/its off.jpeg" width="20%">
+  <img src="/TestingMiddlePress.jpeg" width="20%">
+</div>
+
+## Draft and Schematic
+
+The weave consists of a section of tabby, and two layer section, and a final section of tabby. Conductive thread is both integrated as supplemental weft and is sewn the warp direction.
+
+![a draft with tabby, two layer tabby, then tabby again](FinalDraft.png )
+
+![A circuit diagram -- this is basically a collection of voltage dividers](fullCircuit.jpeg)
+
 
 ## Materials and Tools
 
@@ -36,5 +53,4 @@ This swatch consists of a header of tabby before splitting off into several laye
 - Wire strippers
 
 
-## Draft
 
